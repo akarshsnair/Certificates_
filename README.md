@@ -1,2 +1,2 @@
 # Certificates_
-### Various Certifictes obtanied from kaggle
+### Various Certificates obtained from kaggle
